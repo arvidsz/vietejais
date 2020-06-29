@@ -18,12 +18,4 @@
 		<phone type="work">(+371) 253425252</phone>
 		<note>Advokāts</note>
 	</contact>
-	<contact>
-		<name>
-			<lastname>Liepa</lastname>
-			<firstname>Liene</firstname>
-		</name>
-		<phone type="cell">(+371) 26293837</phone>
-		<note/>
-	</contact>
 </contact_list>
