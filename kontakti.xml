@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact_list>
+	<contact>
+		<name>
+			<lastname>Bērziņš</lastname>
+			<firstname>Andris</firstname>
+		</name>
+		<phone type="home">(+371) 23673529</phone>
+		<phone type="cell">(+371) 24352734</phone>
+		<note>Zobārsts SIA "Bērziņš &amp; dēls"</note>
+	</contact>
+	<contact>
+		<name>
+			<lastname>Ozols</lastname>
+			<firstname>Juris</firstname>
+		</name>
+		<phone type="cell">(+371) 26344252</phone>
+		<phone type="work">(+371) 253425252</phone>
+		<note/>
+	</contact>
+	<contact>
+		<name>
+			<lastname>Liepa</lastname>
+			<firstname>Liene</firstname>
+		</name>
+		<phone type="cell">(+371) 26293837</phone>
+		<note/>
+	</contact>
+</contact_list>

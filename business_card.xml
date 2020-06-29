@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="business_card_files/businesscard_style.css" type="text/css"?>
+<businesscard>
+	<name>Arvīds Zirnis</name>
+	<phone type="mobile" primary="primary">(+371) 26344195</phone>
+	<phone type="work">(+371) 00000000</phone>
+	<email>arvids.zirnis@gmail.com</email>
+</businesscard>
